@@ -43,7 +43,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-
+/home/kali/Pictures/Screenshot_2025-04-23_08_29_00.png
 
 cat < file2
 ## OUTPUT
